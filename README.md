@@ -44,3 +44,5 @@
 <img src="https://github.com/Aman63981/Aman63981/blob/main/Green%20Skill%20Passport%20English_page-0001.jpg"/>
 
 <img src="https://github.com/Aman63981/Aman63981/blob/main/Green%20Skill%20Passport_page-0001.jpg"/>
+
+<img src="https://github.com/Aman63981/Aman63981/blob/main/Intersection%20AI_page-0001.jpg"/>
